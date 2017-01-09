@@ -95,3 +95,6 @@ Once we have the backend ready and deployable in the next article I'll go throug
 
 Happy coding! :tada:
 
+
+#### You can check out the project on GitLab: [caramba/teamline-backend](https://gitlab.com/caramba/teamline-backend)
+
